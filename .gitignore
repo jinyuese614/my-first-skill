@@ -1,0 +1,11 @@
+# MCP configuration (contains secrets)
+.mcp.json
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Playwright MCP
+.playwright-mcp/
